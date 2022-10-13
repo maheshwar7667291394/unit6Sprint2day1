@@ -1,0 +1,5 @@
+Q1/- What are the limitations of EntityManager methods to perform CRUD operations with
+DB?
+1:-it is aplicable for primary key only.
+2:-multiple record are not fetched from db.
+3:- we can not fetched the data according to the multiple colums
